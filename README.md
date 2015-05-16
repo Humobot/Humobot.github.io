@@ -1,3 +1,3 @@
 # humobot.github.io
 
-Site for Humobot
+Static Site for Humobot
