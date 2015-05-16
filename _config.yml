@@ -67,5 +67,6 @@ theme: landscape
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
+  type: git
+  branch: [gh-pages]
   repo: git@github.com:Humobot/humobot.github.io.git
