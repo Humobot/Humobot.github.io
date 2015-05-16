@@ -70,3 +70,6 @@ deploy:
   type: git
   branch: [gh-pages]
   repo: git@github.com:Humobot/humobot.github.io.git
+  type: heroku
+  branch: [master]
+  repo: git@heroku.com:humobot.git

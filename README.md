@@ -1,3 +1,3 @@
-# humobot.github.io
+# humobot.com
 
-Static Site for Humobot
+Static Site for Humobot Base On [hexo](http://hexo.io/)
