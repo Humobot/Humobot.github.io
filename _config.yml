@@ -69,4 +69,4 @@ theme: landscape
 deploy:
   type: git
   branch: [gh-pages]
-  repo: git@github.com:Humobot/humobot.github.io.git
+  repo: git@github.com:Humobot/Humobot.github.io.git
